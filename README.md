@@ -1,4 +1,4 @@
-<p text-align="center">
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a81&height=250&section=header&text=Jaeyoon&fontSize=70&animation=twinkling&fontColor=fff&fontAlign=75&fontAlignY=40)
 </p>
   

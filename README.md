@@ -1,5 +1,7 @@
+<p text-align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a81&height=250&section=header&text=Jaeyoon&fontSize=70&animation=twinkling&fontColor=fff&fontAlign=75&fontAlignY=40)
-
+</p>
+  
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <h5 align="center"> I've always used this technique </h5>
